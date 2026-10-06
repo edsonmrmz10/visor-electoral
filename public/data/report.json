@@ -1,0 +1,48 @@
+{
+ "secciones": 99,
+ "manzanas": 3482,
+ "colonias": 254,
+ "manzanas_clave_coincide_y_contenida": 3106,
+ "manzanas_clave_coincide_pero_fuera": 0,
+ "manzanas_con_clave_inexistente_en_secciones": 376,
+ "claves_inexistentes": {
+  "2598": 3,
+  "2807": 17,
+  "2911": 44,
+  "2912": 34,
+  "2913": 39,
+  "2914": 38,
+  "2915": 13,
+  "2916": 19,
+  "2966": 27,
+  "2967": 30,
+  "2968": 23,
+  "2969": 39,
+  "2970": 13,
+  "2971": 37
+ },
+ "clave_manzana_vs_seccion_que_la_contiene": {
+  "2911->2041": 44,
+  "2912->2041": 34,
+  "2913->2042": 39,
+  "2914->2042": 38,
+  "2915->2073": 13,
+  "2916->2073": 19,
+  "2966->2047": 27,
+  "2967->2047": 30,
+  "2968->2047": 23,
+  "2969->2047": 39,
+  "2970->2047": 13,
+  "2971->2047": 37
+ },
+ "manzanas_fuera_de_toda_seccion": 20,
+ "manzanas_fuera_de_toda_colonia": 109,
+ "secciones_sin_manzanas_por_clave": [
+  2041,
+  2042,
+  2047,
+  2073,
+  2085
+ ],
+ "pares_seccion_manzana_duplicados": 7
+}
