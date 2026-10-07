@@ -1,0 +1,46 @@
+{
+ "secciones": 117,
+ "manzanas": 3482,
+ "colonias": 254,
+ "manzanas_clave_coincide_y_contenida": 3112,
+ "manzanas_clave_coincide_pero_fuera": 4,
+ "manzanas_con_clave_inexistente_en_secciones": 366,
+ "claves_inexistentes": {
+  "2002": 192,
+  "2006": 154,
+  "2598": 3,
+  "2807": 17
+ },
+ "clave_manzana_vs_seccion_que_la_contiene": {
+  "2002->3121": 29,
+  "2002->3118": 26,
+  "2002->3120": 28,
+  "2002->3116": 32,
+  "2002->3117": 20,
+  "2002->3119": 28,
+  "2002->3115": 29,
+  "2006->3122": 30,
+  "2006->3124": 32,
+  "2006->3123": 35,
+  "2006->3125": 30,
+  "2006->3126": 27
+ },
+ "manzanas_fuera_de_toda_seccion": 20,
+ "manzanas_fuera_de_toda_colonia": 109,
+ "secciones_sin_manzanas_por_clave": [
+  2085,
+  3115,
+  3116,
+  3117,
+  3118,
+  3119,
+  3120,
+  3121,
+  3122,
+  3123,
+  3124,
+  3125,
+  3126
+ ],
+ "pares_seccion_manzana_duplicados": 7
+}
